@@ -1,4 +1,4 @@
-# ScalingLawForTimeSeriesForecasting
+# Scaling Law For Time Series Forecasting
 The repository for experiment codes for our work *Scaling Law for Time Series Forecasting*. **Coming soon.**
 
 **Scaling Law for Time Series Forecasting**
