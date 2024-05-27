@@ -4,9 +4,9 @@ Repository for the [paper](https://arxiv.org/abs/2405.15124):
 
 **Scaling Law for Time Series Forecasting**
 
-**Authors:** [Jingzhe Shi](mailto:shi-jz21@mails.tsinghua.edu.cn)$^*$, [Qinwei Ma](mailto:mqw21@mails.tsinghua.edu.cn)$^*$, [Huan Ma](mailto:mah21@mails.tsinghua.edu.cn), [Lei Li](mailto:lilei@di.ku.dk).
+**Authors:** [Jingzhe Shi](mailto:shi-jz21@mails.tsinghua.edu.cn)$^\star$, [Qinwei Ma](mailto:mqw21@mails.tsinghua.edu.cn)$^\star$, [Huan Ma](mailto:mah21@mails.tsinghua.edu.cn), [Lei Li](mailto:lilei@di.ku.dk).
 
-&emsp; $^*$: equal contribution
+&emsp; $^\star$: equal contribution
 
 **Abstract:** Scaling law that rewards large datasets, complex models and enhanced data granularity has been observed in various fields of deep learning. Yet, studies on time series forecasting have cast doubt on scaling behaviors of deep learning methods for time series forecasting: while more training data improves performance, more capable models do not always outperform less capable models, and longer input horizons may hurt performance for some models.
   We propose a theory for scaling law for time series forecasting that can explain these seemingly abnormal behaviors. 
