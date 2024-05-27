@@ -4,7 +4,7 @@ Repository for the [paper](https://arxiv.org/abs/2405.15124):
 
 **Scaling Law for Time Series Forecasting**
 
-**Authors:** [Jingzhe Shi](mailto:shi-jz21@mails.tsinghua.edu.cn)$^{*}$, [Qinwei Ma](mailto:mqw21@mails.tsinghua.edu.cn)$^{*}$, [Huan Ma](mailto:mah21@mails.tsinghua.edu.cn), [Lei Li](mailto:lilei@di.ku.dk).
+**Authors:** [Jingzhe Shi](mailto:shi-jz21@mails.tsinghua.edu.cn)$^*$, [Qinwei Ma](mailto:mqw21@mails.tsinghua.edu.cn)$^*$, [Huan Ma](mailto:mah21@mails.tsinghua.edu.cn), [Lei Li](mailto:lilei@di.ku.dk).
 
 &emsp; $^*$: equal contribution
 
