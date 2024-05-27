@@ -1,5 +1,6 @@
 # Scaling Law For Time Series Forecasting
-The repository for experiment codes for our work *Scaling Law for Time Series Forecasting*. **Coming soon.**
+
+Repository for the [paper](https://arxiv.org/abs/2405.15124):
 
 **Scaling Law for Time Series Forecasting**
 
