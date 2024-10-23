@@ -1,0 +1,22 @@
+nohup python3 -u run.py \
+  --is_training 1 \
+  --root_path None \
+  --data_path None \
+  --model_id autodl24031111_128_1layer_iMLPresGate_031102ver_PRETRAINING_336_336 \
+  --model iMLP_res_gate \
+  --data self_created \
+  --features M \
+  --seq_len 336 \
+  --pred_len 336 \
+  --e_layers 1 \
+  --enc_in 1 \
+  --dec_in 1 \
+  --c_out 1 \
+  --des 'Exp' \
+  --d_model 128\
+  --d_ff 128 \
+  --batch_size 256 \
+  --train_epochs 30 \
+  --learning_rate 0.0002 \
+  --patience 5 \
+  --itr 1 >> autodl240311011_128_1layer_iMLPresGate_031102ver_PRETRAINING_336_336.log  &

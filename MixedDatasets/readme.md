@@ -1,0 +1,1 @@
+The config for mixed datasets are in `mix_dataset_configs.py`, please refer to this file and `run.py` for conducting experiments on mixed datasets.

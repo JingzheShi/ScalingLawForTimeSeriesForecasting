@@ -1,0 +1,29 @@
+nohup python3 -u run.py \
+  --exp_name MTSF \
+  --is_training 1 \
+  --root_path ./dataset/weather/ \
+  --data_path weather.csv \
+  --model_id Newautodl041204__1921l_MLP_weather_interto336__336_192__p100_lr1e-3_wd1e-5_lasso0_bs8192 \
+  --model MLP_interpolate \
+  --data custom \
+  --features M \
+  --interpolate_len 336 \
+  --seq_len 336 \
+  --pred_len 384 \
+  --label_len 128 \
+  --e_layers 1 \
+  --d_model 192\
+  --enc_in 21 \
+  --dec_in 21 \
+  --c_out 21 \
+  --des 'Exp' \
+  --d_ff 192\
+  --itr 1 \
+  --batch_size 8192 \
+  --train_epochs 30 \
+  --learning_rate 0.001\
+  --weight_decay 0.00001\
+  --l1_lambda 0.0\
+  --percent 40 \
+  --patience 10 \
+  --coef 0.98 >> Newautodl041204__1921l_MLP_weather_interto336__336_192__p100_lr1e-3_wd1e-5_lasso0_bs8192.log &

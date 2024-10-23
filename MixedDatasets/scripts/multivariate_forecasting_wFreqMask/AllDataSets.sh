@@ -1,0 +1,13 @@
+nohup python3 -u run.py \
+    --is_training 1 \
+    --data Mix \
+    --model_id iTfFreq70Mask_weatherAndtraffic_________________24021602____________ \
+    --model iTransformer_wFreqMask \
+    --exp_name MTSF_wFreqMask \
+    --e_layers 4 \
+    --d_model 512 \
+    --d_ff 512 \
+    --batch_size 8 \
+    --train_epochs 15 \
+    --learning_rate 0.0002 \
+    --itr 1 >> MixWeatherAndTraffic_96to96_wFreqMask70_15e_________24021602______.log &
