@@ -1,6 +1,6 @@
 # Scaling Law For Time Series Forecasting
 
-Repository for the [paper](https://arxiv.org/abs/2405.15124):
+Repository for the [paper](https://arxiv.org/abs/2405.15124) at **NeurIPS 2024**:
 
 **Scaling Law for Time Series Forecasting**
 
@@ -16,3 +16,7 @@ Repository for the [paper](https://arxiv.org/abs/2405.15124):
 This repository contains no new models or datasets. Instead, it contains codes like training scripts, and PCA analysis tools for time series that are used in our work.
 
 We acknowledge the code bases provided by several previously proposed fantastic works, including [TimeSeriesLibrary](https://github.com/thuml/Time-Series-Library), [iTransformer](https://github.com/thuml/iTransformer), [ModernTCN](https://github.com/luodhhh/ModernTCN).
+
+
+
+**Please refer to `readme.md` in `PCA_exps` and `MixedDatasets` for conducting PCAs and for training time series models on Multiple Datasets.**
